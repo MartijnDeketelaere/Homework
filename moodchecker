@@ -1,0 +1,12 @@
+mood = input("Wat is je mood vandaag? ")
+
+if mood == "happy":
+    print("It is great to see you happy!")
+elif mood == "sad":
+    print("why so sad")
+elif mood == "nervous":
+    print("why so nervous")
+elif mood == "excited":
+    print("why so exited")
+else:
+    print("no have idea man")
